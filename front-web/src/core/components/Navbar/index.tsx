@@ -17,12 +17,12 @@ const Navbar = () => (
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/Catalog">
+                    <NavLink to="/products">
                         CATÁLOGO
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to ="/Admin">
+                    <NavLink to ="/admin">
                         ADMIN
                     </NavLink>
                 </li>

@@ -1,5 +1,5 @@
 import React from 'react';
-import ProductCard from '../../core/components/ProductCard';
+import ProductCard from './components/ProductCard';
 import './styles.scss';
 
 const Catalog = () => (
